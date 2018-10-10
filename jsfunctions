@@ -1,0 +1,4 @@
+function thisFunction(x) {
+  return x * x
+}
+console.log(thisFunction(x)) //will return a square number
